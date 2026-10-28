@@ -1,0 +1,19 @@
+# Python artifacts
+__pycache__/
+*.py[oc]
+build/
+dist/
+*.egg-info/
+
+# Virtual environments and caches
+.venv/
+.gradio/
+
+# Environment configuration
+.env
+.env.*
+!.env.example
+
+# Editor and IDE
+.vscode/
+.agents/
